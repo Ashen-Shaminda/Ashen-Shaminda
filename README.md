@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ashen Shaminda</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashen-shaminda&label=Profile%20views&color=f50000&style=plastic" alt="ashen-shaminda" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif">
 <p align="left">
 </p>
