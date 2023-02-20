@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashen Shaminda</h1>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif"> -->
 <p align="left">
 </p>
 
